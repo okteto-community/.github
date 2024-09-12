@@ -31,10 +31,9 @@ To ensure a welcoming and inclusive community, we follow a [Code of Conduct](htt
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting us via hello@okteto.com
 
 ## Support and Community
-
-[Okteto Documentation](https://okteto.com/docs)
-[Okteto Community Forum](https://community.okteto.com)
-[Okteto on Twitter](https://x.com/oktetohq)
+- [Okteto Documentation](https://okteto.com/docs)
+- [Okteto Community Forum](https://community.okteto.com)
+- [Okteto on Twitter](https://x.com/oktetohq)
 
 ## License
 Unless otherwise specified, the content in this organization is licensed under the Apache 2.0 License.
